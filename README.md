@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+You can run the following command to create project:
+`npx create-react-app react-ts-boilerplate --template typescript`
+
+## Install webpack
+`yarn add webpack webpack-cli webpack-dev-server typescript ts-loader style-loader path html-webpack-plugin css-loader --dev`
 
 ## Available Scripts
 
