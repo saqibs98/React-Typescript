@@ -1,2 +1,2 @@
 // export all components
-export {};
+export { Footer } from './Footer';
